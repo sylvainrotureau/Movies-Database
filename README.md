@@ -1,1 +1,1 @@
-https://sylvainrotureau.github.io/Movies-Database/
+Movies database from the moviedb.org using its API
